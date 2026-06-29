@@ -1,0 +1,7 @@
+interface:
+  display_name: "cc-rsg"
+  short_description: "Generate source-cited specs and docs from code"
+  default_prompt: "Use $cc-rsg to reverse-engineer source-cited specifications and related maintenance, handoff, or delivery docs from this existing codebase."
+
+policy:
+  allow_implicit_invocation: true
